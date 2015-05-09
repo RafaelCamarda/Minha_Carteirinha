@@ -1,4 +1,4 @@
-# Minha-Carteirinha
+# Minha Carteirinha
 Aplicativo Android para gerenciar o saldo do cartão universitário da UFOP - Universidade Federal de Ouro Preto
 
 
