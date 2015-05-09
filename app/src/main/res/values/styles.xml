@@ -5,9 +5,9 @@
 
         <!-- Set AppCompat’s color theming attrs -->
         <item name="colorPrimary">@color/ufopcolor</item>
-    <item name="colorPrimaryDark">@color/ufopcolor</item>
+        <item name="colorPrimaryDark">@color/ufopcolor</item>
 
-    <!-- The rest of your attributes -->
+        <!-- The rest of your attributes -->
     </style>
 
     <color name="ufopcolor">#942237</color>

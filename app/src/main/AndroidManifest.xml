@@ -17,6 +17,11 @@
         </activity>
         <activity
             android:name=".TelaPrimeiraVez" />
+        <activity
+            android:name=".TelaSaldo" />
+        <activity
+            android:name=".TelaCardapio" />
     </application>
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
 
 </manifest>

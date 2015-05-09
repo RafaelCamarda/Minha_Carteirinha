@@ -10,4 +10,8 @@
     <string name="ola_fulano">Olá,</string>
     <string name="saldo_fulano">Seu saldo:</string>
     <string name="almoco_jantar">ALMOCEI/JANTEI</string>
+    <string name="saldo_inicial">Saldo Inicial:</string>
+    <string name="botao_enviar">Enviar</string>
+    <string name="veja_cardapio">Veja o Cardápido:</string>
+    <string name="avalie_cardapio">Avalie o Cardápido:</string>
 </resources>
