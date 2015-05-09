@@ -1,0 +1,15 @@
+<resources>
+
+
+    <style name="Theme.MyTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!-- Set AppCompat’s color theming attrs -->
+        <item name="colorPrimary">@color/ufopcolor</item>
+    <item name="colorPrimaryDark">@color/ufopcolor</item>
+
+    <!-- The rest of your attributes -->
+    </style>
+
+    <color name="ufopcolor">#942237</color>
+
+</resources>

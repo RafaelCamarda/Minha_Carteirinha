@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Minha Carteirinha</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="bem_vindo">Bem vindo!</string>
+    <string name="digite_nome">Digite seu nome:</string>
+    <string name="bt_enviar">ENVIAR</string>
+    <string name="digite_saldo">Digite seu saldo inicial:</string>
+    <string name="ola_fulano">Olá,</string>
+    <string name="saldo_fulano">Seu saldo:</string>
+    <string name="almoco_jantar">ALMOCEI/JANTEI</string>
+</resources>
