@@ -94,6 +94,8 @@ public class TelaSaldo extends ActionBarActivity {
 
                 if(rbADD.isChecked() == true){
                     saldo += valorSel;
+                    prefs.edit().putFloat("alunoSaldo", saldo).commit();
+                    finish();
                 }
                 else if(rbRMV.isChecked() == true){
                     if(saldo > -4.0f){
