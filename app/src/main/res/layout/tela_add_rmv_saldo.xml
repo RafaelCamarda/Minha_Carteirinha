@@ -21,7 +21,7 @@
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="ADD"
+            android:text="@string/string_add"
             android:id="@+id/rbADD"
             android:layout_margin="10dp"
             android:textSize="20dp"/>
@@ -29,7 +29,7 @@
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="RMV"
+            android:text="@string/string_remover"
             android:id="@+id/rbRMV"
             android:layout_margin="10dp"
             android:textSize="20dp"/>

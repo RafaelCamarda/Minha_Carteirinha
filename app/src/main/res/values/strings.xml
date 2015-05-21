@@ -14,4 +14,6 @@
     <string name="botao_enviar">Enviar</string>
     <string name="veja_cardapio">Veja o Cardápido:</string>
     <string name="avalie_cardapio">Avalie o Cardápido:</string>
+    <string name="string_add">Adicionar</string>
+    <string name="string_remover">Remover</string>
 </resources>
